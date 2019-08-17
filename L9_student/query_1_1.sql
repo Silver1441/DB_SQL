@@ -1,0 +1,1 @@
+SELECT student.name, student.group FROM student;
